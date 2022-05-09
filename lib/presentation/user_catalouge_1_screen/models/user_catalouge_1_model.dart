@@ -1,0 +1,1 @@
+class UserCatalouge1Model { }
