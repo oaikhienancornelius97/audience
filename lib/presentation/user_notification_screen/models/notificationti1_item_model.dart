@@ -1,0 +1,1 @@
+class Notificationti1ItemModel { }
